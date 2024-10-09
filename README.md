@@ -1,4 +1,4 @@
-This repo contains supplementary information for original research currently under review.
+This repo contains supplementary data for original research currently under review:
 
 # Multi-tiered strategy for large-scale wastewater detection of SARS-CoV-2 in low-case settings provides confidence for public health actions
 
