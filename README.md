@@ -1,4 +1,4 @@
-This repo contains supplementary data for original research currently under review:
+This repo contains supplementary data for original research that has been peer-reviewed and accepted for publication by the Journal of Water and Health:
 
 # Multi-tiered strategy for large-scale wastewater detection of SARS-CoV-2 in low-case settings provides confidence for public health actions
 
