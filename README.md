@@ -1,4 +1,5 @@
 This repo contains supplementary data for original research that has been peer-reviewed and accepted for publication by the Journal of Water and Health:
+https://iwaponline.com/jwh/article/23/2/89/106965/Multi-tiered-strategy-for-large-scale-wastewater
 
 # Multi-tiered strategy for large-scale wastewater detection of SARS-CoV-2 in low-case settings provides confidence for public health actions
 
